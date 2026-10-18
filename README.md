@@ -155,5 +155,14 @@ Several limitations should be considered:
 - Results depend on the quality and availability of reported data.
 
 ---
+--- ## How to Run ### 
 
-## Repository Structure
+1. Clone the Repository ```bash git clone https://github.com/YOUR_USERNAME/data-science-project.git
+
+
+How to Run
+pip install -r requirements.txt
+
+Jupyter notebook World Happiness EDA.ipynb
+
+
