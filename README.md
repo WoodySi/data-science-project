@@ -156,9 +156,7 @@ Several limitations should be considered:
 
 ---
 --- ## How to Run ### 
-
-1. Clone the Repository ```bash git clone https://github.com/YOUR_USERNAME/data-science-project.git
-
+Clone the Repository ```bash git clone https://github.com/WoodySi/data-science-project.git
 
 How to Run
 pip install -r requirements.txt
